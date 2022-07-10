@@ -1,0 +1,12 @@
+D:\ASP.NET\CRUD_WebAPI_Dependency_Injection_ASPDOTNET\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+D:\ASP.NET\CRUD_WebAPI_Dependency_Injection_ASPDOTNET\DataLayer\bin\Debug\net6.0\DataLayer.dll
+D:\ASP.NET\CRUD_WebAPI_Dependency_Injection_ASPDOTNET\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+D:\ASP.NET\CRUD_WebAPI_Dependency_Injection_ASPDOTNET\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+D:\ASP.NET\CRUD_WebAPI_Dependency_Injection_ASPDOTNET\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\CRUD_WebAPI_Dependency_Injection_ASPDOTNET\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+D:\ASP.NET\CRUD_WebAPI_Dependency_Injection_ASPDOTNET\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+D:\ASP.NET\CRUD_WebAPI_Dependency_Injection_ASPDOTNET\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\ASP.NET\CRUD_WebAPI_Dependency_Injection_ASPDOTNET\DataLayer\obj\Debug\net6.0\DataLayer.dll
+D:\ASP.NET\CRUD_WebAPI_Dependency_Injection_ASPDOTNET\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+D:\ASP.NET\CRUD_WebAPI_Dependency_Injection_ASPDOTNET\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+D:\ASP.NET\CRUD_WebAPI_Dependency_Injection_ASPDOTNET\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll

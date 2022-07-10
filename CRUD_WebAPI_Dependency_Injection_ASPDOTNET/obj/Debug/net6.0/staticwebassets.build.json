@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I/TQCjY53atw6PXhYCi3ugXwVBgiS5ASWCMtS/V6QDQ=",
+  "Source": "CRUD_WebAPI_Dependency_Injection_ASPDOTNET",
+  "BasePath": "_content/CRUD_WebAPI_Dependency_Injection_ASPDOTNET",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
